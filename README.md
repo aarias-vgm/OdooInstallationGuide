@@ -13,7 +13,7 @@
 1. :globe_with_meridians: Search for url [```http://localhost:8069/```](http://localhost:8069/)
 
 > [!CAUTION]
-> ⚠️ Please DO NOT SELECT the “Program Files” or its nested folders as the installation path. If you have done it :skull:, please use the **appropriate uninstaller tool**[^uninstaller-tool-url] tool to uninstall both programs **Odoo 15.0** and **PostgreSQL 12**.
+> Please DO NOT SELECT the **Program Files** or its nested folders as the installation path. If you have done it :skull:, please use the **appropriate uninstaller tool**[^uninstaller-tool-url] tool to uninstall both programs _Odoo 15.0_ and _PostgreSQL 12_. ⚠️ Also it´s not recommended to select **any desktop folder** as installation path.
 
 [odoo-url]: https://www.odoo.com/es_ES/page/download
 
